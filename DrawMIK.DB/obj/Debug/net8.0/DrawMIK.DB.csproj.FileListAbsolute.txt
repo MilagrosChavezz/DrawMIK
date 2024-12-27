@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\DrawMIK\DrawMIK.DB\bin\Debug\net8.0\DrawMIK.DB.deps.json
+C:\Users\Admin\source\repos\DrawMIK\DrawMIK.DB\bin\Debug\net8.0\DrawMIK.DB.runtimeconfig.json
+C:\Users\Admin\source\repos\DrawMIK\DrawMIK.DB\bin\Debug\net8.0\DrawMIK.DB.dll
+C:\Users\Admin\source\repos\DrawMIK\DrawMIK.DB\bin\Debug\net8.0\DrawMIK.DB.pdb
+C:\Users\Admin\source\repos\DrawMIK\DrawMIK.DB\obj\Debug\net8.0\DrawMIK.DB.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\DrawMIK\DrawMIK.DB\obj\Debug\net8.0\DrawMIK.DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\DrawMIK\DrawMIK.DB\obj\Debug\net8.0\DrawMIK.DB.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\DrawMIK\DrawMIK.DB\obj\Debug\net8.0\DrawMIK.DB.AssemblyInfo.cs
+C:\Users\Admin\source\repos\DrawMIK\DrawMIK.DB\obj\Debug\net8.0\DrawMIK.DB.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DrawMIK\DrawMIK.DB\obj\Debug\net8.0\DrawMIK.DB.sourcelink.json
+C:\Users\Admin\source\repos\DrawMIK\DrawMIK.DB\obj\Debug\net8.0\DrawMIK.DB.dll
+C:\Users\Admin\source\repos\DrawMIK\DrawMIK.DB\obj\Debug\net8.0\refint\DrawMIK.DB.dll
+C:\Users\Admin\source\repos\DrawMIK\DrawMIK.DB\obj\Debug\net8.0\DrawMIK.DB.pdb
+C:\Users\Admin\source\repos\DrawMIK\DrawMIK.DB\obj\Debug\net8.0\DrawMIK.DB.genruntimeconfig.cache
+C:\Users\Admin\source\repos\DrawMIK\DrawMIK.DB\obj\Debug\net8.0\ref\DrawMIK.DB.dll

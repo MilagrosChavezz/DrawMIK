@@ -1,0 +1,31 @@
+﻿@model List<DrawMIK.DB.Entities.Game>;
+@{
+    ViewData["Title"] = "Details";
+}
+<h2>MY Drawings</h2>
+<table class="table">
+    <thead>
+        <tr class="bg-primary">
+            <th>Players</th>
+            <th>Name</th>
+           
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            @foreach (var game in Model)
+            {
+
+                <td>game.</td>
+            }
+@* 
+            @foreach (var player in game.GamePlayers)
+            {
+                <td>@player.Player.NombreJugador</td>
+            }
+                <a asp-controller="Drawing" asp-action="Index" asp-route-id="@game.GameId">Open draw</a>
+            }*/ *@
+           
+                
+        </tr>
+    </tbody>

@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\DrawMIK\DrawMIK.Service\bin\Debug\net8.0\DrawMIK.Service.deps.json
+C:\Users\Admin\source\repos\DrawMIK\DrawMIK.Service\bin\Debug\net8.0\DrawMIK.Service.dll
+C:\Users\Admin\source\repos\DrawMIK\DrawMIK.Service\bin\Debug\net8.0\DrawMIK.Service.pdb
+C:\Users\Admin\source\repos\DrawMIK\DrawMIK.Service\bin\Debug\net8.0\DrawMIK.DB.dll
+C:\Users\Admin\source\repos\DrawMIK\DrawMIK.Service\bin\Debug\net8.0\DrawMIK.DB.pdb
+C:\Users\Admin\source\repos\DrawMIK\DrawMIK.Service\obj\Debug\net8.0\DrawMIK.Service.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\DrawMIK\DrawMIK.Service\obj\Debug\net8.0\DrawMIK.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\DrawMIK\DrawMIK.Service\obj\Debug\net8.0\DrawMIK.Service.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\DrawMIK\DrawMIK.Service\obj\Debug\net8.0\DrawMIK.Service.AssemblyInfo.cs
+C:\Users\Admin\source\repos\DrawMIK\DrawMIK.Service\obj\Debug\net8.0\DrawMIK.Service.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DrawMIK\DrawMIK.Service\obj\Debug\net8.0\DrawMIK.Service.sourcelink.json
+C:\Users\Admin\source\repos\DrawMIK\DrawMIK.Service\obj\Debug\net8.0\DrawMIK..E12CB7E2.Up2Date
+C:\Users\Admin\source\repos\DrawMIK\DrawMIK.Service\obj\Debug\net8.0\DrawMIK.Service.dll
+C:\Users\Admin\source\repos\DrawMIK\DrawMIK.Service\obj\Debug\net8.0\refint\DrawMIK.Service.dll
+C:\Users\Admin\source\repos\DrawMIK\DrawMIK.Service\obj\Debug\net8.0\DrawMIK.Service.pdb
+C:\Users\Admin\source\repos\DrawMIK\DrawMIK.Service\obj\Debug\net8.0\ref\DrawMIK.Service.dll
