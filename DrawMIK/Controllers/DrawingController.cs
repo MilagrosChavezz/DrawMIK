@@ -3,6 +3,7 @@ using DrawMIK.DB.Entities;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 using DrawMIK.Service;
+using DrawMIK.Models;
 
 namespace DrawMIK.Controllers
 {
@@ -37,20 +38,28 @@ namespace DrawMIK.Controllers
 
      
         [HttpPost]
-        public async Task<IActionResult> SaveDrawing([FromBody] List<Line> lines,String drawingName) {
-            Console.WriteLine($"Nombre del dibujo recibido: {drawingName}");
-            Console.WriteLine($"Líneas recibidas: {lines}");
+        public async Task<IActionResult> SaveDrawing([FromBody] SaveDrawingRequest request) {
+            if (request.Lines == null || request.DrawingName == null)
+            {
+                return BadRequest("Invalid input data");
+            }
+
+            Console.WriteLine($"Nombre del dibujo recibido: {request.DrawingName}");
+            Console.WriteLine($"Líneas recibidas: {request.Lines}");
 
             Game game = new Game();
-            game.Lines = lines;
-            game.GameName = drawingName;
+            
+            game.GameName = request.DrawingName;
 
-            foreach (var line in lines)
+            await drawingService.SaveDraw(game);
+
+            foreach (var line in request.Lines)
             {
                 line.GameId = game.GameId;
             }
-            await drawingService.SaveLines(lines);
-             await drawingService.SaveDraw( game);
+
+            await drawingService.SaveLines(request.Lines);
+
 
             return RedirectToAction("MyDrawings");
         }

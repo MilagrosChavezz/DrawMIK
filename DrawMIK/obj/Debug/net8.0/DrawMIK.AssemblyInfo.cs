@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DrawMIK")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c78e4483730130554c9bdc77327e423934d91aaf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5dc60080ef3bc4bb6305accd48d8a82a3c583c67")]
 [assembly: System.Reflection.AssemblyProductAttribute("DrawMIK")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DrawMIK")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

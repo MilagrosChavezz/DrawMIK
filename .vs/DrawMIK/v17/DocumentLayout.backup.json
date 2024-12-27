@@ -3,48 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\DrawMIK\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0DF5A230-974A-4745-ADDB-198FA8D1FBC5}|DrawMIK\\DrawMIK.csproj|c:\\users\\admin\\source\\repos\\drawmik\\drawmik\\views\\drawing\\mydrawings.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0DF5A230-974A-4745-ADDB-198FA8D1FBC5}|DrawMIK\\DrawMIK.csproj|solutionrelative:drawmik\\views\\drawing\\mydrawings.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0DF5A230-974A-4745-ADDB-198FA8D1FBC5}|DrawMIK\\DrawMIK.csproj|c:\\users\\admin\\source\\repos\\drawmik\\drawmik\\controllers\\drawingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DF5A230-974A-4745-ADDB-198FA8D1FBC5}|DrawMIK\\DrawMIK.csproj|solutionrelative:drawmik\\controllers\\drawingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0DF5A230-974A-4745-ADDB-198FA8D1FBC5}|DrawMIK\\DrawMIK.csproj|c:\\users\\admin\\source\\repos\\drawmik\\drawmik\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0DF5A230-974A-4745-ADDB-198FA8D1FBC5}|DrawMIK\\DrawMIK.csproj|solutionrelative:drawmik\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BA951B48-EEB1-49B6-8C7D-09FBF8B2540C}|DrawMIK.DB\\DrawMIK.DB.csproj|c:\\users\\admin\\source\\repos\\drawmik\\drawmik.db\\entities\\line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA951B48-EEB1-49B6-8C7D-09FBF8B2540C}|DrawMIK.DB\\DrawMIK.DB.csproj|solutionrelative:drawmik.db\\entities\\line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DF5A230-974A-4745-ADDB-198FA8D1FBC5}|DrawMIK\\DrawMIK.csproj|c:\\users\\admin\\source\\repos\\drawmik\\drawmik\\views\\drawing\\mydrawings.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0DF5A230-974A-4745-ADDB-198FA8D1FBC5}|DrawMIK\\DrawMIK.csproj|solutionrelative:drawmik\\views\\drawing\\mydrawings.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2E4F48E0-9ABC-4FDD-A47D-0E3A95A7C709}|DrawMIK.Service\\DrawMIK.Service.csproj|c:\\users\\admin\\source\\repos\\drawmik\\drawmik.service\\drawingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2E4F48E0-9ABC-4FDD-A47D-0E3A95A7C709}|DrawMIK.Service\\DrawMIK.Service.csproj|solutionrelative:drawmik.service\\drawingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2E4F48E0-9ABC-4FDD-A47D-0E3A95A7C709}|DrawMIK.Service\\DrawMIK.Service.csproj|c:\\users\\admin\\source\\repos\\drawmik\\drawmik.service\\drawmik.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{2E4F48E0-9ABC-4FDD-A47D-0E3A95A7C709}|DrawMIK.Service\\DrawMIK.Service.csproj|solutionrelative:drawmik.service\\drawmik.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA951B48-EEB1-49B6-8C7D-09FBF8B2540C}|DrawMIK.DB\\DrawMIK.DB.csproj|c:\\users\\admin\\source\\repos\\drawmik\\drawmik.db\\drawmik.db.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{BA951B48-EEB1-49B6-8C7D-09FBF8B2540C}|DrawMIK.DB\\DrawMIK.DB.csproj|solutionrelative:drawmik.db\\drawmik.db.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0DF5A230-974A-4745-ADDB-198FA8D1FBC5}|DrawMIK\\DrawMIK.csproj|c:\\users\\admin\\source\\repos\\drawmik\\drawmik\\drawmik.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{0DF5A230-974A-4745-ADDB-198FA8D1FBC5}|DrawMIK\\DrawMIK.csproj|solutionrelative:drawmik\\drawmik.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0DF5A230-974A-4745-ADDB-198FA8D1FBC5}|DrawMIK\\DrawMIK.csproj|c:\\users\\admin\\source\\repos\\drawmik\\drawmik\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{0DF5A230-974A-4745-ADDB-198FA8D1FBC5}|DrawMIK\\DrawMIK.csproj|solutionrelative:drawmik\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0DF5A230-974A-4745-ADDB-198FA8D1FBC5}|DrawMIK\\DrawMIK.csproj|c:\\users\\admin\\source\\repos\\drawmik\\drawmik\\controllers\\drawingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0DF5A230-974A-4745-ADDB-198FA8D1FBC5}|DrawMIK\\DrawMIK.csproj|solutionrelative:drawmik\\controllers\\drawingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0DF5A230-974A-4745-ADDB-198FA8D1FBC5}|DrawMIK\\DrawMIK.csproj|c:\\users\\admin\\source\\repos\\drawmik\\drawmik\\views\\drawing\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0DF5A230-974A-4745-ADDB-198FA8D1FBC5}|DrawMIK\\DrawMIK.csproj|solutionrelative:drawmik\\views\\drawing\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0DF5A230-974A-4745-ADDB-198FA8D1FBC5}|DrawMIK\\DrawMIK.csproj|c:\\users\\admin\\source\\repos\\drawmik\\drawmik\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0DF5A230-974A-4745-ADDB-198FA8D1FBC5}|DrawMIK\\DrawMIK.csproj|solutionrelative:drawmik\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BA951B48-EEB1-49B6-8C7D-09FBF8B2540C}|DrawMIK.DB\\DrawMIK.DB.csproj|c:\\users\\admin\\source\\repos\\drawmik\\drawmik.db\\entities\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BA951B48-EEB1-49B6-8C7D-09FBF8B2540C}|DrawMIK.DB\\DrawMIK.DB.csproj|solutionrelative:drawmik.db\\entities\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA951B48-EEB1-49B6-8C7D-09FBF8B2540C}|DrawMIK.DB\\DrawMIK.DB.csproj|c:\\users\\admin\\source\\repos\\drawmik\\drawmik.db\\entities\\line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA951B48-EEB1-49B6-8C7D-09FBF8B2540C}|DrawMIK.DB\\DrawMIK.DB.csproj|solutionrelative:drawmik.db\\entities\\line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0DF5A230-974A-4745-ADDB-198FA8D1FBC5}|DrawMIK\\DrawMIK.csproj|c:\\users\\admin\\source\\repos\\drawmik\\drawmik\\models\\savedrawingrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DF5A230-974A-4745-ADDB-198FA8D1FBC5}|DrawMIK\\DrawMIK.csproj|solutionrelative:drawmik\\models\\savedrawingrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DF5A230-974A-4745-ADDB-198FA8D1FBC5}|DrawMIK\\DrawMIK.csproj|c:\\users\\admin\\source\\repos\\drawmik\\drawmik\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0DF5A230-974A-4745-ADDB-198FA8D1FBC5}|DrawMIK\\DrawMIK.csproj|solutionrelative:drawmik\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DF5A230-974A-4745-ADDB-198FA8D1FBC5}|DrawMIK\\DrawMIK.csproj|c:\\users\\admin\\source\\repos\\drawmik\\drawmik\\views\\drawing\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0DF5A230-974A-4745-ADDB-198FA8D1FBC5}|DrawMIK\\DrawMIK.csproj|solutionrelative:drawmik\\views\\drawing\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BA951B48-EEB1-49B6-8C7D-09FBF8B2540C}|DrawMIK.DB\\DrawMIK.DB.csproj|c:\\users\\admin\\source\\repos\\drawmik\\drawmik.db\\entities\\gameplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -86,128 +78,114 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DrawingService.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DrawMIK\\DrawMIK.Service\\DrawingService.cs",
-              "RelativeDocumentMoniker": "DrawMIK.Service\\DrawingService.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DrawMIK\\DrawMIK.Service\\DrawingService.cs",
-              "RelativeToolTip": "DrawMIK.Service\\DrawingService.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAwDAAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T02:26:33.732Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DrawMIK.Service",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DrawMIK\\DrawMIK.Service\\DrawMIK.Service.csproj",
-              "RelativeDocumentMoniker": "DrawMIK.Service\\DrawMIK.Service.csproj",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DrawMIK\\DrawMIK.Service\\DrawMIK.Service.csproj",
-              "RelativeToolTip": "DrawMIK.Service\\DrawMIK.Service.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-27T03:38:51.349Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DrawMIK\\DrawMIK\\Program.cs",
-              "RelativeDocumentMoniker": "DrawMIK\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DrawMIK\\DrawMIK\\Program.cs",
-              "RelativeToolTip": "DrawMIK\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABXAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "DrawingService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DrawMIK\\DrawMIK.Service\\DrawingService.cs",
+              "RelativeDocumentMoniker": "DrawMIK.Service\\DrawingService.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DrawMIK\\DrawMIK.Service\\DrawingService.cs",
+              "RelativeToolTip": "DrawMIK.Service\\DrawingService.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAswBYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T03:13:56.079Z",
+              "WhenOpened": "2024-12-27T05:12:15.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Line.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DrawMIK\\DrawMIK.DB\\Entities\\Line.cs",
+              "RelativeDocumentMoniker": "DrawMIK.DB\\Entities\\Line.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DrawMIK\\DrawMIK.DB\\Entities\\Line.cs",
+              "RelativeToolTip": "DrawMIK.DB\\Entities\\Line.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T05:09:58.492Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "DrawMIK.DB.csproj",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DrawMIK\\DrawMIK.DB\\DrawMIK.DB.csproj",
-              "RelativeDocumentMoniker": "DrawMIK.DB\\DrawMIK.DB.csproj",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DrawMIK\\DrawMIK.DB\\DrawMIK.DB.csproj",
-              "RelativeToolTip": "DrawMIK.DB\\DrawMIK.DB.csproj",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABQAAABZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-19T02:18:03.021Z",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DrawMIK\\DrawMIK\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DrawMIK\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DrawMIK\\DrawMIK\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DrawMIK\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T04:49:10.621Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DrawMIK.csproj",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DrawMIK\\DrawMIK\\DrawMIK.csproj",
-              "RelativeDocumentMoniker": "DrawMIK\\DrawMIK.csproj",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DrawMIK\\DrawMIK\\DrawMIK.csproj",
-              "RelativeToolTip": "DrawMIK\\DrawMIK.csproj",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAABYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-19T04:08:50.666Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "MyDrawings.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DrawMIK\\DrawMIK\\Views\\Drawing\\MyDrawings.cshtml",
               "RelativeDocumentMoniker": "DrawMIK\\Views\\Drawing\\MyDrawings.cshtml",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\DrawMIK\\DrawMIK\\Views\\Drawing\\MyDrawings.cshtml",
               "RelativeToolTip": "DrawMIK\\Views\\Drawing\\MyDrawings.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-27T02:38:41.525Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "site.js",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DrawMIK\\DrawMIK\\wwwroot\\js\\site.js",
-              "RelativeDocumentMoniker": "DrawMIK\\wwwroot\\js\\site.js",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DrawMIK\\DrawMIK\\wwwroot\\js\\site.js",
-              "RelativeToolTip": "DrawMIK\\wwwroot\\js\\site.js",
-              "ViewState": "AgIAACMAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-12-21T02:32:16.2Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "DrawingController.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DrawMIK\\DrawMIK\\Controllers\\DrawingController.cs",
               "RelativeDocumentMoniker": "DrawMIK\\Controllers\\DrawingController.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DrawMIK\\DrawMIK\\Controllers\\DrawingController.cs",
-              "RelativeToolTip": "DrawMIK\\Controllers\\DrawingController.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DrawMIK\\DrawMIK\\Controllers\\DrawingController.cs*",
+              "RelativeToolTip": "DrawMIK\\Controllers\\DrawingController.cs*",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAwDsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-21T02:23:37.132Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Line.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DrawMIK\\DrawMIK.DB\\Entities\\Line.cs",
-              "RelativeDocumentMoniker": "DrawMIK.DB\\Entities\\Line.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DrawMIK\\DrawMIK.DB\\Entities\\Line.cs",
-              "RelativeToolTip": "DrawMIK.DB\\Entities\\Line.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DrawMIK\\DrawMIK.DB\\Entities\\Game.cs",
+              "RelativeDocumentMoniker": "DrawMIK.DB\\Entities\\Game.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DrawMIK\\DrawMIK.DB\\Entities\\Game.cs",
+              "RelativeToolTip": "DrawMIK.DB\\Entities\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T03:00:22.742Z",
+              "WhenOpened": "2024-12-27T02:46:25.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SaveDrawingRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DrawMIK\\DrawMIK\\Models\\SaveDrawingRequest.cs",
+              "RelativeDocumentMoniker": "DrawMIK\\Models\\SaveDrawingRequest.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DrawMIK\\DrawMIK\\Models\\SaveDrawingRequest.cs",
+              "RelativeToolTip": "DrawMIK\\Models\\SaveDrawingRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T04:55:45.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DrawMIK\\DrawMIK\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "DrawMIK\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DrawMIK\\DrawMIK\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "DrawMIK\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAIwGwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-21T02:32:16.2Z",
               "EditorCaption": ""
             },
             {
@@ -218,40 +196,27 @@
               "RelativeDocumentMoniker": "DrawMIK\\Views\\Drawing\\Index.cshtml",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\DrawMIK\\DrawMIK\\Views\\Drawing\\Index.cshtml",
               "RelativeToolTip": "DrawMIK\\Views\\Drawing\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-21T02:19:41.45Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 9,
               "Title": "GamePlayer.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DrawMIK\\DrawMIK.DB\\Entities\\GamePlayer.cs",
               "RelativeDocumentMoniker": "DrawMIK.DB\\Entities\\GamePlayer.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\DrawMIK\\DrawMIK.DB\\Entities\\GamePlayer.cs",
               "RelativeToolTip": "DrawMIK.DB\\Entities\\GamePlayer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-19T04:44:44.951Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Game.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DrawMIK\\DrawMIK.DB\\Entities\\Game.cs",
-              "RelativeDocumentMoniker": "DrawMIK.DB\\Entities\\Game.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DrawMIK\\DrawMIK.DB\\Entities\\Game.cs",
-              "RelativeToolTip": "DrawMIK.DB\\Entities\\Game.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T02:46:25.437Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 10,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DrawMIK\\DrawMIK\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "DrawMIK\\Views\\_ViewImports.cshtml",
@@ -259,12 +224,11 @@
               "RelativeToolTip": "DrawMIK\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-21T05:22:11.713Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-21T05:22:11.713Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 11,
               "Title": "DrawMikContext.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DrawMIK\\DrawMIK.DB\\Entities\\DrawMikContext.cs",
               "RelativeDocumentMoniker": "DrawMIK.DB\\Entities\\DrawMikContext.cs",
@@ -272,12 +236,11 @@
               "RelativeToolTip": "DrawMIK.DB\\Entities\\DrawMikContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T04:42:21.362Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T04:42:21.362Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 14,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DrawMIK\\DrawMIK.DB\\Entities\\Player.cs",
               "RelativeDocumentMoniker": "DrawMIK.DB\\Entities\\Player.cs",
@@ -285,12 +248,11 @@
               "RelativeToolTip": "DrawMIK.DB\\Entities\\Player.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T04:44:46.196Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T04:44:46.196Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 12,
               "Title": "PlayerLogin.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DrawMIK\\DrawMIK.DB\\Entities\\PlayerLogin.cs",
               "RelativeDocumentMoniker": "DrawMIK.DB\\Entities\\PlayerLogin.cs",
@@ -298,12 +260,11 @@
               "RelativeToolTip": "DrawMIK.DB\\Entities\\PlayerLogin.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T04:44:46.665Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T04:44:46.665Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 13,
               "Title": "DrawMIK",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DrawMIK\\DrawMIK\\DrawMIK.csproj",
               "RelativeDocumentMoniker": "DrawMIK\\DrawMIK.csproj",
@@ -315,7 +276,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 15,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DrawMIK\\DrawMIK\\appsettings.json",
               "RelativeDocumentMoniker": "DrawMIK\\appsettings.json",
@@ -323,12 +284,11 @@
               "RelativeToolTip": "DrawMIK\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-19T04:02:16.665Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T04:02:16.665Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 16,
               "Title": "20241219035234_init.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DrawMIK\\DrawMIK.DB\\Migrations\\20241219035234_init.cs",
               "RelativeDocumentMoniker": "DrawMIK.DB\\Migrations\\20241219035234_init.cs",

@@ -9,6 +9,7 @@ let startX = 0;
 let startY = 0;
 let lines = [];
 let savedLines = [];
+
 document.getElementById("SaveDraw").style.display = "none";
 
 function loadDrawing(savedLines, ctx, connection, lines) {
@@ -82,7 +83,7 @@ document.addEventListener("DOMContentLoaded", function () {
     document.getElementById('savedrawing').addEventListener('click', function (e) {
         e.preventDefault();
 
-        let drawingName=document.getElementById('drawingName').value;
+        let drawingName = document.getElementById('drawingName').value;
         fetch('/Drawing/SaveDrawing', {
             method: 'POST',
             headers: {
